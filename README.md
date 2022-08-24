@@ -1,7 +1,7 @@
 ### Olá, sou o Pedro. Seja bem vindo! <h4>
 
 - 🔭 Estou no momento trabalhando com **AudioVisual** na faculdade UNAERP.
-- 🌱 Atualmente estou estudando **Python**.
+- 🌱 Atualmente estou estudando **Python**, **Django**.
 - 🤔 Procurando ajuda para **back-end**.
 - 💬 Pergunte-me sobre o que desejo para o meu futuro ...
 -->
