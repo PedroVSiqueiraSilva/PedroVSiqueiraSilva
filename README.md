@@ -1,6 +1,6 @@
 ### Olá, sou o Pedro. Seja bem vindo! <h4>
 
-- 🔭 Estou no momento trabalhando com **AudioVisual** na faculdade UNAERP.
+- 🔭 Estou no momento trabalhando como **Analista Service Desk** na faculdade UNAERP - Universidade de Ribeirão Preto.
 - 🌱 Atualmente estou estudando **Python**, **Django**.
 - 🤔 Procurando ajuda para **back-end**.
 - 💬 Pergunte-me sobre o que desejo para o meu futuro ...
